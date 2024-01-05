@@ -1,0 +1,3 @@
+com.minatogithuborganization.testignow.config.ApplicationRepositoriesAutoConfiguration
+com.minatogithuborganization.testignow.config.ApplicationTransactionManagersAutoConfig
+com.minatogithuborganization.testignow.config.ApplicationProvidersAutoConfiguration
